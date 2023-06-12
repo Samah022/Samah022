@@ -6,10 +6,15 @@
 
 
 ### Contact Me::telephone_receiver:
-<span>
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</span>
+
+<p align="left">
+<a href="https://linkedin.com/in/samah-shamma" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="samah-shamma" /></a>
+</p>
+
+<p align="left">
+<a href="samahr.shamma@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="samah-shamma"/></a>
+</p>
+
 
 ### Skills: :computer:
 - Artificial Intelligence:
