@@ -12,13 +12,14 @@
 </span>
 
 ### Skills: :computer:
+- Libaries:
 <div>
 <span>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
  </span>
  </div>
- 
+ - Database:
 <div>
 <span>
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -26,12 +27,7 @@
  </span>
  </div>
 
-<div>
-<span>
-<img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" />
-</span>
-</div>
-
+- Framework:
 <div>
 <span>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
@@ -39,7 +35,7 @@
 <img src="https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
 </span>
 </div>
-
+- Langouge:
 <div>
 <span>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -52,6 +48,3 @@
 <img src="" />
 </span>
 </div>
-
-### Most Used Language::bar_chart:
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samah022" />
