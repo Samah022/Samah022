@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- :mortar_board:I’m currently studying Software Engineering
+- :eyes: I’m Samah
+- :mortar_board:I’m Software Engineer
 - 🌱 I’m intersted in  Artifical Intelligence
 - ⚡ Fun fact: "if you ever get stuck, just throw hash map at the problem" :grin:
 
