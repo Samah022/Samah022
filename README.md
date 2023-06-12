@@ -2,7 +2,7 @@
 
 - :mortar_board:I’m currently studying Software Engineering
 - 🌱 I’m intersted in  Artifical Intelligence
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: "if you ever get stuck, just throw hash map at the problem" :grin:
 
 
 ### Contact Me::telephone_receiver:
@@ -19,15 +19,16 @@
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
  </span>
  </div>
- - Database:
+ 
+- Database:
 <div>
 <span>
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" />
  </span>
  </div>
-
-- Framework:
+ 
+- Frameworks:
 <div>
 <span>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
@@ -35,7 +36,8 @@
 <img src="https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
 </span>
 </div>
-- Langouge:
+
+- Langouges:
 <div>
 <span>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -45,6 +47,5 @@
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-<img src="" />
 </span>
 </div>
