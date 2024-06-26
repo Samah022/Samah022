@@ -13,7 +13,15 @@
 </p>
 
 ### Skills: :computer:
- - <h3 align="left">Programming Languages:</h3>
+ - <h3 align="left">Programming Languages: </h3>
+ - <h3 align="left">Frontend Development: </h3>
+ - <h3 align="left">Backend Development: </h3>
+ - <h3 align="left">Database: </h3>
+ - <h3 align="left">Framework: </h3>
+ - <h3 align="left">AI/ML: </h3>
+
+
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
