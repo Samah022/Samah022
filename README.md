@@ -2,8 +2,8 @@
 <h3 align="center">A Software Engineer passionate about Artificial Intelligence</h3>
 
 <ul align="center">
-  <li>📫 How to reach me: <a href="mailto:samahr.shamma@gmail.com">samahr.shamma@gmail.com</a></li>
-  <li>⚡ Fun fact: "If you ever get stuck, just throw a hash map at the problem" 😁</li>
+  📫 How to reach me: <a href="mailto:samahr.shamma@gmail.com">samahr.shamma@gmail.com</a>
+  ⚡ Fun fact: "If you ever get stuck, just throw a hash map at the problem" 😁
 </ul>
 
 <h3 align="center">Connect with me:</h3>
