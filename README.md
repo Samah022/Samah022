@@ -2,7 +2,7 @@
 <h3 align="center">A Software Engineer passionate about Artificial Intelligence</h3>
 
 <ul align="center">
-  📫 How to reach me: <a href="mailto:samahr.shamma@gmail.com">samahr.shamma@gmail.com</a>
+  📫 How to reach me: <a href="mailto:samahr.shamma@gmail.com">samahr.shamma@gmail.com
   ⚡ Fun fact: "If you ever get stuck, just throw a hash map at the problem" 😁
 </ul>
 
