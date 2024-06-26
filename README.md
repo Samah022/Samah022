@@ -18,12 +18,12 @@
     <td colspan="6" align="center"><h2>Skills: 💻</h2></td>
   </tr>
   <tr>
-    <td align="center"><h4>Programming Languages:</h4></td>
-    <td align="center"><h4>Frontend Development:</h4></td>
-    <td align="center"><h4>Backend Development:</h4></td>
-    <td align="center"><h4>Database:</h4></td>
-    <td align="center"><h4>Framework:</h4></td>
-    <td align="center"><h4>AI/ML:</h4></td>
+    <td align="center"><h4>Programming Languages</h4></td>
+    <td align="center"><h4>Frontend Development</h4></td>
+    <td align="center"><h4>Backend Development</h4></td>
+    <td align="center"><h4>Database</h4></td>
+    <td align="center"><h4>Framework</h4></td>
+    <td align="center"><h4>AI/ML</h4></td>
   </tr>
   <tr>
     <td align="center">
@@ -60,8 +60,6 @@
     </td>
     <td align="center">
       <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/><br>OpenCV
-      <br><br>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/><br>Pandas
       <br><br>
       <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/><br>PyTorch
       <br><br>
